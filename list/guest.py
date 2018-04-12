@@ -12,6 +12,7 @@ list.append('Jackie Chan')
 print(str(list).decode('string_escape'))
 list.insert(0,'Trump')
 print(str(list).decode('string_escape'))
+print("I think I've invited "+str(len(list))+" guests")
 
 print("sorry that I can only invite two people")
 poped=list.pop(0)
