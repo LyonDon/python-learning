@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #-*- coding:utf-8 -*-
-
+#简单的列表应用
 list=['Bill Gates','Steve Jobs','Kobe']
 print(list)
 print(list[0]+" can't come because he's too busy\nSo,I need to make a plan B")
