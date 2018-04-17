@@ -13,3 +13,6 @@ for value in range(1,11):
 	pass
 #print('\n')
 print(squares)
+
+squares=[value**2 for value in xrange(1,11)]
+print(squares)
