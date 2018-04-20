@@ -3,7 +3,7 @@ def display_message():
 	pass
 
 display_message()
-
+print('\n')
 def favorite_book(title):
 	print('my favorite book is '+title)
 	pass
