@@ -1,0 +1,4 @@
+In python you can create a list
+In python you can add a lei
+In python you can delete a element of a list
+In python you can input a sentence
